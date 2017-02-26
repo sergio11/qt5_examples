@@ -1,4 +1,3 @@
-test/
 
 # C++ objects and libs
 
@@ -36,4 +35,7 @@ Makefile*
 *.qmlproject.user.*
 
 # QtCtreator CMake
+
 CMakeLists.txt.user
+
+test/
